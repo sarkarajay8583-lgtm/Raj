@@ -1,0 +1,6 @@
+flask
+aiohttp
+protobuf
+pycryptodome
+httpx
+requests
